@@ -19,3 +19,11 @@
 + Fourth Line
 
 > Black Quote
+
+#include<stdio.h>
+int main()
+{
+int a, b;
+printf("Enter value");
+scanf(%d,%d, &a,&b);
+}
