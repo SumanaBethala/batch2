@@ -53,7 +53,11 @@ scanf(%d,%d, &a,&b);
 
 ### Greatful[^1]
 
+### To insert the table
 
+|Name|College|District|
+|----|---|---|
+|Sumana|APSSDC|Vizag|
 
 
 
