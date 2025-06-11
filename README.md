@@ -7,6 +7,8 @@
 
 ***Bold-Italic***
 
+~~StrikeThrough~~
+
 ### Ordered List
 1. First Line
 2. Second Line
@@ -47,7 +49,7 @@ scanf(%d,%d, &a,&b);
 - [X] Git
 - [ ] DevOps
 
-
+### Footnote [^1]
 
 
 
