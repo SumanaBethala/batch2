@@ -22,6 +22,7 @@
 
 `Single Line of Code`
 ```
+**Multiple Line of Code**
 #include<stdio.h>
 int main()
 {
@@ -30,3 +31,6 @@ printf("Enter value");
 scanf(%d,%d, &a,&b);
 }
 ```
+
+##### Horizontal Line
+-----
