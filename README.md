@@ -40,6 +40,8 @@ scanf(%d,%d, &a,&b);
 ###### Insert any URL
 [Sumana](text1.txt)
 
+[^1]:Thankful
+
 #### Insert any image
 ![My First Image](https://tse4.mm.bing.net/th?id=OIP.0v0WSI9bszvLAmV1lus4-wHaDt&pid=Api&P=0&h=180)
 
@@ -49,8 +51,9 @@ scanf(%d,%d, &a,&b);
 - [X] Git
 - [ ] DevOps
 
-Footnote[^1]
-[^1]:Meaning
+### Greatful[^1]
+
+
 
 
 
