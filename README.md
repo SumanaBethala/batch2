@@ -20,10 +20,13 @@
 
 > Black Quote
 
-`#include<stdio.h>
+`Single Line of Code`
+```
+#include<stdio.h>
 int main()
 {
 int a, b;
 printf("Enter value");
 scanf(%d,%d, &a,&b);
-}`
+}
+```
