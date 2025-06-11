@@ -49,7 +49,8 @@ scanf(%d,%d, &a,&b);
 - [X] Git
 - [ ] DevOps
 
-Footnote.[^1]
+Footnote[^1]
+[^1]:Meaning
 
 
 
